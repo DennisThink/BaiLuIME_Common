@@ -448,9 +448,9 @@ public:
 			return false;
 		}
 
-		if (json["ClientId"].is_string())
+		if (json["ClientID"].is_string())
 		{
-			m_strClientId = json["ClientId"].string_value();
+			m_strClientId = json["ClientID"].string_value();
 		}
 		else
 		{
