@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Logger.h"
 #include "CommonMsg.h"
+#include "CommonFunction.h"""
 int main(int argc,char * argv[])
 {
 	{
